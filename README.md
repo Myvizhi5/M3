@@ -97,8 +97,9 @@ int main() {
 
     return 0;
 }
-
-## OUTPUT
+```
+ OUTPUT
+```
 Fibonacci Series for 6 terms: 
 0, 1, 1, 2, 3, 5
 ```
@@ -140,7 +141,9 @@ int main() {
 
     return 0;
 }
-## OUTPUT
+```
+ OUTPUT
+ ```
 Enter the number of elements: 5
 Enter the elements: 10 20 30 40 50
 The last element is: 50
@@ -190,7 +193,9 @@ int main() {
 
     return 0;
 }
-## OUTPUT
+```
+ OUTPUT
+ ```
 Enter the number of elements in the array: 5
 Enter the elements of the array: -1 3 0 7 -2
 Total number of positive elements: 2
@@ -258,8 +263,9 @@ int main() {
 
     return 0;
 }
-
-## Output:
+```
+ Output:
+ ```
 Enter the size of the array: 5
 Enter the elements of the array: 1 2 3 4 5
 Updated array: 1 'E' 3 'E' 5
