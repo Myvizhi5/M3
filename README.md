@@ -46,7 +46,9 @@ int main() {
 
     return 0;
 }
-## OUTPUT
+```
+OUTPUT
+```
 Enter principal amount: 500000
 Enter rate of interest: 7.5
 Enter number of months: 24
